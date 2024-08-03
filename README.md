@@ -303,3 +303,8 @@ Random voting done at the frontend of the deployed application;
 ![image](https://github.com/user-attachments/assets/985cd1e7-4c17-4556-81f9-f1ff0b3c6832)
 
 
+Random voting done at frontend of the application correspondingly recorded in our MongoDB database at the backend;
+
+
+![image](https://github.com/user-attachments/assets/e8c479e4-8dc0-4255-b050-3f0f315c4b93)
+
