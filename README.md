@@ -293,4 +293,5 @@ Making an API call to the MongoDB database prior to voting - with all votes indi
 Corresponding frontend prior to voting - with all votes indicating zero(0)
 
 
-![image](https://github.com/user-attachments/assets/e9e62a6f-1a00-468a-976f-b098b1d2a64c)
+![image](https://github.com/user-attachments/assets/01d2814a-9e02-4349-8228-9e966a45b996)
+
