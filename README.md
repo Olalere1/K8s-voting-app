@@ -284,15 +284,22 @@ In this Project, you learnt how to deploy a cloud native application into EKS. O
 
 ## **Conclusion**
 
-Making an API call to the MongoDB database prior to voting - with all votes indicating zero (0)
+Making an API call to the MongoDB database prior to voting - with all votes indicating zero (0);
 
 
-![image](https://github.com/user-attachments/assets/1a5fa7ca-26cb-4dcb-96f0-ca256db59088)
+![image](https://github.com/user-attachments/assets/6e101cdb-f5a3-4899-85eb-9a789b152e0f)
 
 
-Corresponding frontend prior to voting - with all votes indicating zero(0)
+
+Corresponding frontend prior to voting - with all votes indicating zero(0);
 
 
 ![image](https://github.com/user-attachments/assets/3a87f192-417c-41ce-aed4-3f9c92125afd)
+
+
+Random voting done at the frontend of the deployed application;
+
+
+![image](https://github.com/user-attachments/assets/985cd1e7-4c17-4556-81f9-f1ff0b3c6832)
 
 
